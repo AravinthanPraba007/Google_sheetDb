@@ -1,3 +1,10 @@
+ # Google_SheetDB
+ 
+We’re constantly searching for ways to improve our everyday workflow.\
+Here’s a way to save time by fetching data straight from Google sheets with React and tabletop.js.
+
+Check out the [tabletop documentation](https://www.npmjs.com/package/tabletop) for a deeper dive
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
